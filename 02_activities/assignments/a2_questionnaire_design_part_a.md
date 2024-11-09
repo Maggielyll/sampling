@@ -16,30 +16,40 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 
 # Your Changes
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `#`1
 
 Describe the purpose of your survey:
 ```
-write your answer here...
-```
+    This survey aims to uncover the reasons behind the recent increase in turnover among our entry- and lower-level employees. By listening to their experiences and feedback, we hope to gain valuable insights into areas like job satisfaction, career growth, and work culture, helping us make meaningful changes that will improve retention and create a more supportive workplace.
+
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
-```
+    Target Population: Entry- and lower-level employees in all departments, and employees who have left the company in the past 3 years. This population group combines the most affected employees in recent months and the employees who may not affected recently.
+
+    Sampling Frame: All current and former entry- and lower-level employees, who left in recent months.
+
+    Sampling Units: Individual employees from the sampling frame.
+
+    Observational Units: Each employee who completes the survey and aggre to share their data for the analysis.
 
 Your 5-10 question survey:
 ```
 1. write your question here...
+    On a scale of 1 to 5, how satisfied were/are you with your overall job experience at our company? (1 = Very Dissatisfied, 5 = Very Satisfied)
 2. write your question here...
+    What were/are the main reasons for your dissatisfaction, if any? (Select all that apply: Compensation, Work-life Balance, Career Growth, Management Support, Team Dynamics, Workload, Company Culture, Other – Please specify)
 3. write your question here...
+    Did you feel there were sufficient opportunities for career growth and advancement in your role? (Yes, Somewhat, No)
 4. write your question here...
+    How would you describe your workload in your position? (Very Manageable, Manageable, Somewhat Overwhelming, Overwhelming)
 5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+    How would you describe the company culture in terms of inclusivity, communication, and employee recognition? (Very Positive, Positive, Neutral, Negative, Very Negative)
+6. write your question here... 
+    For current employees: what may influence you to decide to leave the company? (Open ended)
+7. write your question here... 
+    For former employees: What ultimately influenced your decision to leave the company? (Open ended)
+
 ```
 
 ## Rubric
